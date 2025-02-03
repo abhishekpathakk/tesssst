@@ -1,9 +1,6 @@
-a = 1
-b = 1
+"""This is a simple Python script for adding two numbers."""
 
-print(a + b)
+A = 1
+B = 1
 
-c = 1
-d = 1
-
-print(c + d)
+print(A + B)
